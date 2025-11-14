@@ -1,0 +1,35 @@
+# Fichiers temporaires et plans
+*.txt
+
+# Dossiers de travail et apprentissage
+apprentissage/
+doing/
+
+# Environnements Python
+uv/.venv/
+
+
+# Cache Python
+*__pycache__*/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# artefacts
+app/model.pkl
